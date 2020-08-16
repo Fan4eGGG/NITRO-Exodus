@@ -1,5 +1,5 @@
-Techniques=HDR,FilmicPass,Technicolor2,Curves,Colourfulness,DELC_Sharpen
-TechniqueSorting=HDR,FilmicPass,Technicolor2,Curves,Colourfulness,DELC_Sharpen
+Techniques=Clarity,HDR,FilmicPass,Technicolor2,Curves,Colourfulness,DELC_Sharpen
+TechniqueSorting=Clarity,HDR,FilmicPass,Technicolor2,Curves,Colourfulness,DELC_Sharpen
 
 [Clarity.fx]
 ClarityBlendMode=6
